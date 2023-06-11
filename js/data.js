@@ -1,0 +1,15 @@
+dictionary={
+	hello:"salom",
+	about:"haqida",
+	after:"keyin",
+	before:"oldin",
+	all:"hamma",
+	and:"va",
+	answer:"javob",
+	question:"savol",
+	apple:"olma",
+	bedroom:"yotoqxona",
+	banana:"banan",
+	beautiful:"chiroyli",
+	because:"chunki"
+}
